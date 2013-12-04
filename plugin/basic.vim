@@ -1,5 +1,5 @@
 set nocompatible
-set tabstop=4 shiftwidth=4 expandtab
+set tabstop=4 shiftwidth=4 expandtab smarttab
 set textwidth=0
 set cino=j1,l1
 
