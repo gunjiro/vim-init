@@ -7,3 +7,7 @@ set number
 set laststatus=2
 
 set encoding=utf-8
+
+if has('win32') || has('win64')
+    set directory=$TMP
+endif
