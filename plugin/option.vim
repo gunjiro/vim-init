@@ -12,3 +12,5 @@ if has('win32') || has('win64')
     set directory=$TMP
 endif
 set nobackup
+
+set noundofile
